@@ -5,8 +5,8 @@ import httplib
 import urllib
 
 app = Flask(__name__)
-parse_app_id = "zmWJCe0SgbXzRnFm9zipa9lFxdW15UdE6FHY7HOs"
-parse_app_key = "LwRjbjxVPfyhJgzdxv9YLifWMun5gdA5xIbrcbfQ"
+parse_app_id = "#########################################"
+parse_app_key = "########################################"
 
 @app.route('/')
 def hello_world():
